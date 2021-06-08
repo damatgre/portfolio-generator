@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-generator",
+  "name": "c",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/damatgre/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/damatgre/portfolio-generator#readme"
+  "homepage": "https://github.com/damatgre/portfolio-generator#readme",
+  "keywords": [
+    "^C"
+  ]
 }
